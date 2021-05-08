@@ -1,4 +1,4 @@
-name: Python django test
+name: Python django tests
 
 on: [push]
 
